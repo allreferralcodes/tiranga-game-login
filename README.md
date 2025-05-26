@@ -1,1 +1,1 @@
-# tiranga-game.github-com
+# tiranga-game
