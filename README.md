@@ -5,9 +5,7 @@
   <meta name="google-site-verification" content="R3o6RGUdso1gjmoZmfsWXCMyHaQhBGK32ACMijgtOfY" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Join Tiranga Game – Use Code 5882818674566 for Bonus</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
+
     body {
       font-family: 'Segoe UI', sans-serif;
       background-color: #f4f9ff;
