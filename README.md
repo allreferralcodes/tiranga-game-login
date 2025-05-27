@@ -6,38 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f4f9ff;
-    }
-    .hero {
-      background: linear-gradient(135deg, skyblue, #000);
-      color: white;
-      padding: 100px 0;
-      text-align: center;
-    }
-    .ref-code {
-      color: #ffeb3b;
-      font-weight: bold;
-      font-size: 1.5rem;
-    }
-    .btn-custom {
-      background-color: #000;
-      color: #fff;
-      border: none;
-      font-weight: 600;
-    }
-    .btn-custom:hover {
-      background-color: #333;
-    }
-    .section-title {
-      color: #000;
-      font-weight: 700;
-      margin-bottom: 1rem;
-    }
-  </style>
-</head>
-<body>
+
 
 <!-- Hero Section -->
 <section class="hero">
